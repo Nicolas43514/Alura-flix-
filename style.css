@@ -17,7 +17,7 @@ h1{
 p{
     font-size: 20px;
 }
-section{
+.chamada{
     background-color: rgb(66, 44, 126);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -28,4 +28,22 @@ section{
 .chamada-texto{
     margin-right: 10%;
 }
+img{
+    width: 200xp;
+    height: 300xp;
+}
 
+.Outras recomendaçoẽs{
+    display: flex;
+    overflow-x: auto;
+    gap: 10xp;
+    padding-left: 20xp;
+}
+
+h2{
+    padding-left: 30xp;
+}
+
+body{
+    padding-bottom: 40xp;
+}
